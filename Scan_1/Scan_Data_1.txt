@@ -1,0 +1,39 @@
+US [-75,0 65,9 1127,0] 
+
+RS [-89,5 102,1 1143,1] 
+
+ME [-41,3 150,8 904,4] 
+
+LE [-98,9 187,0 928,9]
+
+Segmento Wrist-Cutline : 122
+Segmento Elbow-Culine : 100
+Reference US: 100
+Reference ME: 113
+
+distanza tra US-Cutline : 24   (segmento 253) --> posizione US sulla shape 
+distanza tra ME-CUtline : 16   (segmento 345) --> posizione ME sulla shape
+
+segmento FCR 1 - Cutline : 177
+Segmento ECR 1 - Cutline : 190
+segmento FCR 2 - Cutline : 39
+segmento ECR 2 - Cutline : 36
+
+Segmento marker curva FCR 1 : 160 
+Segmento marker curva FCR 2 : 65
+Segmento marker curva ECR 1 : 97
+Segmento marker curva ECR 2 : 129
+
+distanza tra ECR 1 - Cutline : 119
+Distanza longitudinale (coordinata y) ECR 1: 70
+distanza tra FCR 1 - Cutline : 33.0 
+Distanza longitudinale (coordinata y) FCR 1: 75
+distanza tra ECR 2 - Cutline : 108.5
+Distanza longitudinale (coordinata y) ECR 2: 37.2
+distanza tra FCR 2 - Cutline : 35
+Distanza longitudinale (coordinata y) FCR 2: 56
+
+Larghezza polso (wrist) : 150 mm 
+Larghezza gomito (elbow) : 232 mm 
+Lunghezza avambraccio : 234 mm 
+
